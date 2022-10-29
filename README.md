@@ -1,4 +1,4 @@
-![Omnipresent](/LogoOmnipresent.jpg "Mim de papai")
+![Omnipresent](readme/LogoOmnipresent.jpg "Mim de papai")
 
 # Omnipresent
 
