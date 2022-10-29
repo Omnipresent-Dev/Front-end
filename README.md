@@ -10,7 +10,7 @@ Grupo 5 - DevMenthors
 
  ### Mentor:
 
- - Paulera - Mentor
+ - Paulão
  
  ### Time
  - Felipe - Front-end
