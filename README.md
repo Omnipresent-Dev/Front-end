@@ -1,3 +1,5 @@
+![Omnipresent](/LogoOmnipresent.jpg "Mim de papai")
+
 # Omnipresent
 
 Aplicativo para controle de presença, utilizando FLutter
