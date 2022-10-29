@@ -6,7 +6,7 @@ Aplicativo para controle de presença, utilizando FLutter
 
 Grupo 5 - DevMenthors
 
-> ### O
+> ### O time é nois:
 
 > - Paulera - Mentor
 > - Felipe - Front-end
