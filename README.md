@@ -2,18 +2,20 @@
 
 # Omnipresent
 
-Aplicativo para controle de presença, utilizando FLutter
+Aplicativo para controle de presença, utilizando Flutter
 
-## Time
+## O grupo
 
 Grupo 5 - DevMenthors
 
- ### O time é nois:
+ ### Mentor:
 
  - Paulera - Mentor
+ 
+ ### Time
  - Felipe - Front-end
  - João Pedro Lourenço - Back-end
- - João Pedro (sobrenome) - Back-end/Design
+ - João Pedro Aguiar - Back-end/Design
  - Luiz Angelo - Back-end/Design
  - Marcos  - Front-end/Design
  - Sofhia - Tester
