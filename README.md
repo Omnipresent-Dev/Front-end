@@ -1,4 +1,4 @@
-![Omnipresent](readme/LogoOmnipresent.jpg "Mim de papai")
+![LogoOmnipresent](https://user-images.githubusercontent.com/83512270/198843530-4df5f145-78cd-457a-8cf3-e6ad0d6effb7.jpg "Mim de Papai HEHE")
 
 # Omnipresent
 
