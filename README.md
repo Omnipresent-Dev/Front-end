@@ -1,16 +1,15 @@
-# omnipresent_project
+# Omnipresent
 
-A new Flutter project.
+Aplicativo para controle de presença, utilizando FLutter
 
-## Getting Started
+## Time
 
-This project is a starting point for a Flutter application.
+Grupo 5 - DevMenthors
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Felipe
+-João Pedro Lourenço
+-João Pedro alguma coisa kkkk dps poe seu nome
+-Luiz Angelo
+-Marcos
+-Sofhia 
+-Vinícius
