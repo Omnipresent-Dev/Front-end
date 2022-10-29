@@ -6,10 +6,13 @@ Aplicativo para controle de presença, utilizando FLutter
 
 Grupo 5 - DevMenthors
 
-> - Felipe
-> - João Pedro Lourenço
-> - João Pedro alguma coisa kkkk dps poe seu nome
-> -L uiz Angelo
-> - Marcos
-> - Sofhia 
-> - Vinícius
+> ### O
+
+> - Paulera - Mentor
+> - Felipe - Front-end
+> - João Pedro Lourenço - Back-end
+> - João Pedro alguma coisa kkkk dps poe seu nome - Back-end/Design
+> - Luiz Angelo - Back-end/Design
+> - Marcos  - Front-end/Design
+> - Sofhia - Tester
+> - Vinícius - Front-end
